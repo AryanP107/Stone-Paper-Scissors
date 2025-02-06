@@ -11,7 +11,7 @@ This is a simple Stone Paper Scissors game built using HTML, CSS, and JavaScript
 - The game continues until the player chooses to stop or refresh the page.
 
 ## Preview
-![Game Screenshot](./images/Preview.png)
+![Game Screenshot](./Images/Preview.png)
 
 ## Technologies Used
 
